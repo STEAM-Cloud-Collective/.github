@@ -7,7 +7,7 @@ Science Cloud is a distributed collective dedicated to ethical, sustainable rese
 
 ## Operating Charter  
 Our single, comprehensive governing document:  
-https://github.com/STEAM-Cloud-Collective/constitution-docs/new/main?readme=1
+https://github.com/STEAM-Cloud-Collaborative/constitution-docs
 
 ---
 
